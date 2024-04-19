@@ -1,0 +1,1 @@
+SELECT * FROM clarissa.post_comment;
